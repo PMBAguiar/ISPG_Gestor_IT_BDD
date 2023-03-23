@@ -16,16 +16,18 @@ Painel Ficheiros
 
 Painel Atividade
 <p align="center">
-  <img src="docs/preview1" width="350" title="preview1">
+  <img src="docs/preview2" width="350" title="preview2">
 </p>
 
 Painel Postos
 <p align="center">
-  <img src="docs/preview1" width="350" title="preview1">
+  <img src="docs/preview3" width="350" title="preview3">
 </p>
 
 Painel Novo registo Posto
 <p align="center">
-  <img src="docs/preview1" width="350" title="preview1">
+  <img src="docs/preview4" width="350" title="preview4">
 </p>
 
+Pasta base de dados contém a base de dados exemplo.
+Pasta doc contém um relatório sobre a aplicação.
