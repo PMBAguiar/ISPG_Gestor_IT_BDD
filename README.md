@@ -7,3 +7,25 @@ Montado em servidor Ubuntu20LTS com PHP7, apache2 e mysql.
 
 São necessárias extensões de PHP para uso do mysql e outros.
 
+Exemplos de alguns paineis abaixo
+
+Painel Ficheiros
+<p align="center">
+  <img src="docs/preview1" width="350" title="preview1">
+</p>
+
+Painel Atividade
+<p align="center">
+  <img src="docs/preview1" width="350" title="preview1">
+</p>
+
+Painel Postos
+<p align="center">
+  <img src="docs/preview1" width="350" title="preview1">
+</p>
+
+Painel Novo registo Posto
+<p align="center">
+  <img src="docs/preview1" width="350" title="preview1">
+</p>
+
