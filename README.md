@@ -8,22 +8,22 @@ Exemplos de alguns paineis abaixo (nomes redacted):
 
 Painel Ficheiros
 <p align="left">
-  <img src="docs/preview1.png" width="350" title="preview1">
+  <img src="docs/preview1.png" width="400" title="preview1">
 </p>
 
 Painel Atividade
 <p align="left">
-  <img src="docs/preview2.png" width="350" title="preview2">
+  <img src="docs/preview2.png" width="400" title="preview2">
 </p>
 
 Painel Postos
 <p align="left">
-  <img src="docs/preview3.png" width="350" title="preview3">
+  <img src="docs/preview3.png" width="400" title="preview3">
 </p>
 
 Painel Novo registo Posto
 <p align="left">
-  <img src="docs/preview4.png" width="350" title="preview4">
+  <img src="docs/preview4.png" width="400" title="preview4">
 </p>
 
 Pasta base de dados contém a base de dados exemplo.
